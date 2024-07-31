@@ -1,0 +1,31 @@
+body {
+    color: white;
+    background: black;
+    margin: 0;
+}
+
+header {
+    border-bottom: solid white 2px;
+    padding: 20px;
+    font-size: 32px;
+    font-weight: 800;
+    color: blueviolet;
+}
+
+section{
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    margin-right: 5%;
+}
+
+.titulo h1{
+ color: rgb(226, 65, 191);
+}
+.titulo p{
+font-weight: 500;
+}
